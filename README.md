@@ -1,46 +1,45 @@
 - 👋 Hi, I’m @Ahmed-Elmahgob
-- Data Analyst | Turning Data into Insights
-- 🚀 About Me  
-Hi there! I’m a Pharmacist and a junior data analyst passionate about uncovering actionable insights from data. With a strong foundation in **Excel**, **Power Bi**, **Python** and **SQL** I specialize in cleaning, analyzing, and visualizing data to solve real-world problems.  
+- 
+SOC Analyst | Securing Systems, Hunting Threats
+ About Me
+Hey there! I’m a Pharmacist-turned-SOC Analyst passionate about protecting networks and thwarting cyber threats. With hands-on experience in threat detection, log analysis, and incident response, I’m dedicated to keeping systems secure by digging into alerts, spotting anomalies, and supporting Security Operations Center (SOC) workflows.
+ Skills & Tools  
+Monitoring Tools: Splunk, Wireshark, SIEM platforms  
 
----
+Analysis: Log Parsing, Packet Analysis, IoC Identification  
 
-## 🛠️ **Skills & Tools** 
-- **Excel, Google Sheets**
-- **Visualization Tools:** Power BI,
-- **Programming Languages:** Python   
-- **Databases:** SQL (PostgreSQL, MySQL)  
-- **Core Skills:** Data Cleaning, Exploratory Data Analysis (EDA), Statistical Analysis, Dashboard Design  
+Scripting: Python (for automation and basic threat hunting)  
 
----
+Systems: Windows Event Logs, Linux Syslogs  
 
-## 📊 **Featured Projects**  
-### **1. Adidas US Sales Dashboard (2020-2021)**  
-- Built an interactive dashboard using **Excel** to analyze Adidas’ sales performance across regions, sales methods, and product categories.  
-- Key insights included identifying high ROI channels (e.g., instore sales) and top-performing regions (e.g., New York).  
-- [View Project Repository](#)  
+Core Skills: Threat Investigation, Alert Triage, Incident Reporting, Basic Malware Analysis
 
-### **2. Sales dashboard using Power Bi**  
-- Creation of a comprehensive sales dashboard from scratch using tools like **Excel** and **Power Bi** to analyze and visualise data.  
-- Delivered actionable insights for users to get better understanding of their sales and performance.  
-- [View Project Repository](#)  
+ Featured Projects  
+Threat Detection Script (Network Logs)  
+Built a Python script to parse network logs and flag suspicious IPs against a threat intelligence feed.  
 
- 
+Key outcome: Automated detection of potential command-and-control (C2) traffic for SOC escalation.  
 
----
+View Project Repository (#) (Link to your repo here)
 
-## 📚 **What I’m Learning**
-- Enhancing storytelling with data through visualization.  
-- Power Bi and Tablue
-- Programing Languages as Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Advanced SQL for optimized data queries.  
-- Machine Learning basics for predictive analysis.  
+Phishing Incident Dashboard  
+Created a Splunk dashboard to visualize phishing email patterns (e.g., sender domains, click rates) from email logs.  
 
----
+Delivered real-time insights for SOC team to prioritize high-risk incidents.  
 
-## 🌟 **Achievements**  
-- Designed dashboards that improved stakeholder decision-making by simplifying data insights.   
-- Created KPI dashboard for user journey marketing campaign, enabling better performance monitoring.  
+View Project Repository (#) (Link to your repo here)
+
+ What I’m Learning  
+Advanced Splunk queries for threat hunting.  
+
+Wireshark filters for deeper packet analysis.  
+
+Python scripting for automating SOC tasks (e.g., log enrichment).  
+
+MITRE ATT&CK framework to map adversary tactics.  
+
+Basics of endpoint detection and response (EDR) tools.
+
 
 ---
 
