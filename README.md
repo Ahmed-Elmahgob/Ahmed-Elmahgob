@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ahmed-Elmahgob
-- 
-SOC Analyst | Securing Systems, Hunting Threats
+- SOC Analyst | Securing Systems, Hunting Threats
  About Me
 Hey there! I’m a Pharmacist-turned-SOC Analyst passionate about protecting networks and thwarting cyber threats. With hands-on experience in threat detection, log analysis, and incident response, I’m dedicated to keeping systems secure by digging into alerts, spotting anomalies, and supporting Security Operations Center (SOC) workflows.
  Skills & Tools  
